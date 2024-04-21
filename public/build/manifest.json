@@ -1,0 +1,25 @@
+{
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard-914140aa.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dashboard.jsx"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-cb41d22e.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.jsx": {
+    "css": [
+      "assets/app-cb41d22e.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Dashboard.jsx"
+    ],
+    "file": "assets/app-7eaa2d30.js",
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  }
+}
